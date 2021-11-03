@@ -26,6 +26,14 @@
             "Form1",
             "Form1.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "weather",
+            "weather.json"
+          ]
         }
       ],
       "configxml": null,
