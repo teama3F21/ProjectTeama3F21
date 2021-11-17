@@ -1,0 +1,4 @@
+
+btnEnter.onclick=function(){
+  
+}

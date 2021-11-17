@@ -23,16 +23,24 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
+            "home",
+            "home.json"
           ]
         },
         {
           "!type": "External",
           "file": [
             "forms",
-            "weather",
-            "weather.json"
+            "trips",
+            "trips.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "covid",
+            "covid.json"
           ]
         }
       ],
@@ -55,7 +63,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "home",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
