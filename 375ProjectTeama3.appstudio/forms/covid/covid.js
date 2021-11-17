@@ -1,4 +1,0 @@
-
-btnEnterCity.onclick=function(){
-  
-}
