@@ -23,8 +23,6 @@
           "!type": "External",
           "file": [
             "forms",
-            "home",
-            "home.json"
           ]
         },
         {
@@ -33,14 +31,7 @@
             "forms",
             "trips",
             "trips.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "covid",
-            "covid.json"
+
           ]
         }
       ],
@@ -63,7 +54,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "home",
+
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
