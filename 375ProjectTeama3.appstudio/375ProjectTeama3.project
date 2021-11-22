@@ -31,6 +31,7 @@
             "forms",
             "trips",
             "trips.json"
+
           ]
         }
       ],
@@ -53,6 +54,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
+
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
